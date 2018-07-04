@@ -15,7 +15,7 @@
 		    margin-top: 2em;
 		}
 		.over_lay_agile {
-		    background: url(${basePathStatic}/main/img/overlay.png)repeat;
+		    background: url(img/overlay.png)repeat;
 		    padding: 3em 3em 7.5em 3em;
 		    height:100%;
 		}
@@ -24,7 +24,7 @@
 		    text-align: center;
 		}
 		.weather_w3_inner_info {
-		    background: url(${basePathStatic}/main/img/weather_bg.jpg)no-repeat center;
+		    background: url(img/weather_bg.jpg)no-repeat center;
 		    background-attachment: fixed;
 		}
 		figure.icons, .weather-text {
